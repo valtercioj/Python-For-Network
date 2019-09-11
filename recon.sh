@@ -1,4 +1,7 @@
 #!/bin/bash
+# instale o curl em sua maquina
+
+
 
 for palavra in $(cat lista.txt)
 do
